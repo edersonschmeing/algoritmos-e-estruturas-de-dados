@@ -1,3 +1,0 @@
-# Lista Encadeada
-
-A Lista encadeada é uma estrutura...
